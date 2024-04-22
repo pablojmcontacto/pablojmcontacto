@@ -29,7 +29,7 @@
 
 <li><strong>2019</strong> Curso de segundo ciclo en formación en PRL del sector del metal en obras de construcción</li>
 
-<li><strong>2020</strong>CCNA ROUTING AND SWITCHING : INTRODUCCIÓN A REDES</li>
+<li><strong>2020</strong> CCNA ROUTING AND SWITCHING : INTRODUCCIÓN A REDES</li>
 
 <li><strong>2021</strong> Grado Medio en Sistemas Microinformáticos y Redes</li>
 
