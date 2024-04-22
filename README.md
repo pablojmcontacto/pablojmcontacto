@@ -33,13 +33,13 @@
 
 <li><strong>2021</strong> Grado Medio en Sistemas Microinformáticos y Redes</li>
 
-<li><strong>2021</strong>INTRODUCCIÓN A LA SEGURIDAD CIBERNÉTICA.CISCO</li>
+<li><strong>2021</strong> INTRODUCCIÓN A LA SEGURIDAD CIBERNÉTICA.CISCO</li>
 
-<li><strong>2023</strong>INTRODUCCIÓN TO IT.CISCO</li>
+<li><strong>2023</strong> INTRODUCCIÓN TO IT.CISCO</li>
 
-<li><strong>2023</strong>Grado Superior en Adminsitración de Sistemas Informáticos en Red.</li>
+<li><strong>2023</strong> Grado Superior en Adminsitración de Sistemas Informáticos en Red.</li>
 
-<li><strong>2023</strong>One-Week General English Plato Institute B2 Chipre, Limassol</li>
+<li><strong>2023</strong> One-Week General English Plato Institute B2 Chipre, Limassol</li>
 
 
 
