@@ -1,5 +1,5 @@
 <h1 align="center">Pablo Jurado Martínez</h1>
-<p align="center">System Administrator technical</p>
+<p align="center">Administrador de Sistemas Infromáticos en Red</p>
 <div align="center"><img  src="https://www.grupocibernos.com/hs-fs/hubfs/seguridad%20inform%C3%A1tica%20y%20c%C3%B3mo%20implementarla.jpg?width=960&name=seguridad%20inform%C3%A1tica%20y%20c%C3%B3mo%20implementarla.jpg" width="200" />
 </div>
 <hr>
