@@ -37,7 +37,7 @@
 
 <li><strong>2023</strong> INTRODUCCIÓN TO IT. CISCO</li>
 
-<li><strong>2023</strong> Grado Superior en Adminsitración de Sistemas Informáticos en Red.</li>
+<li><strong>2023</strong> Grado Superior en Administración de Sistemas Informáticos en Red.</li>
 
 <li><strong>2023</strong> One-Week General English Plato Institute B2 Chipre, Limassol</li>
 
