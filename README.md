@@ -7,7 +7,7 @@ Tras presentar una notable trayectoria en el mundo de la informática , tengo gr
 <hr>
 <h2>Prácticas y Trabajos Destacados</h2>
 
-<p>En ****/contrucción\****</p>
+<p>En ****/construcción\****</p>
 
 
 
