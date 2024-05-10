@@ -21,7 +21,7 @@ Tras presentar una notable trayectoria en el mundo de la informática , tengo gr
   
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pablojmcontacto&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablojmcontacto&layout=compact&langs_count=10&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablojmcontacto&layout=compact&langs_count=10&theme=dark&hide=html,css)](https://github.com/pablojmcontacto/github-readme-stats)
 
 </div>
 
