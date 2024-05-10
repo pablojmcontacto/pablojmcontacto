@@ -2,7 +2,7 @@
 <p align="center">Administrador de Sistemas Informáticos en Red</p>
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_perfil/)](https://www.linkedin.com/in/tu_perfil/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-jurado-1a1a06278/)](https://www.linkedin.com/in/pablo-jurado-1a1a06278/)
 
 </div>
 
