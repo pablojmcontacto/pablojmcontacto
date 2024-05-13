@@ -15,8 +15,6 @@ Tras presentar una notable trayectoria en el mundo de la informática , tengo gr
 
 [GitFlow](https://github.com/pablojmcontacto/GitFlow)
 
-<hr>
-
 <div align="center">
   
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pablojmcontacto&show_icons=true)
