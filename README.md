@@ -1,10 +1,11 @@
 <h1 align="center">Pablo Jurado Martínez</h1>
 <p align="center">Administrador de Sistemas Informáticos en Red</p>
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-jurado-1a1a06278/)](https://www.linkedin.com/in/pablo-jurado-1a1a06278/)
 
+<!--
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-jurado-1a1a06278/)](https://www.linkedin.com/in/pablo-jurado-1a1a06278/)
 </div>
+-->
 
 <hr>
 <p align="center">
