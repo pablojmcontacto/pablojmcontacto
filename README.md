@@ -7,6 +7,9 @@ En general estamos trabajando en la construcción del mismo
 📫 Contacto: pablojmcontacto@gmail.com
 🌐 Sitio web: En construcción
 
+
+
+
 ---
 
 ## 🧰 Herramientas y Tecnologías
@@ -24,6 +27,11 @@ En construcción
 ## 🎓 Certificaciones
 
 En construcción
+
+![image](https://github.com/user-attachments/assets/42991306-9f7c-400a-9712-018a1b8c754a)
+
+![image](https://github.com/user-attachments/assets/be7c85ce-3c23-4810-b73c-7d2e6cde2ddc)
+
 
 ---
 
